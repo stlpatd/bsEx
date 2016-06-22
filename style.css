@@ -1,0 +1,16 @@
+/*External css style sheet for bsEx*/
+
+.jumbotron {
+	align-content: center;
+	margin: 0 10%;
+	padding-top: 0;
+}
+
+.jumbotron p{
+	margin: 0 10% 
+}
+
+img {
+	width:100%;
+	height: auto;
+}
